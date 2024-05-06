@@ -1,0 +1,39 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+nav{
+    background-color: rgb(29, 240, 255);
+    padding: 12px 12px;
+    font-weight: bold;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+}
+li{
+    list-style: none;
+    padding: 12px 12px;
+    margin: 12px 12px;
+}
+a{
+    text-decoration: none;
+}
+.container{
+    margin: 12px 12px;
+    padding: 12px 12px;
+    background-color: rgb(223, 220, 1);
+    max-width: 50%;
+}
+h1{
+    text-align: center;
+}
+input{
+    padding: 2px 12px;
+    display: block;
+    margin: 1px auto;
+    border-radius: 5px;
+}
+#btn{
+    display: block;
+}
